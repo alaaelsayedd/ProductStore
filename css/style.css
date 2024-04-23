@@ -1,0 +1,15 @@
+body{
+    font-family: "Prompt", sans-serif;
+}
+.form-control:focus,
+.form-select:focus {
+    box-shadow: none;
+    border-color: darkcyan !important;
+}
+.imge{
+    height: 150px;
+    overflow: hidden;
+}
+i{
+    cursor: pointer;
+}
